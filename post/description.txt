@@ -1,0 +1,26 @@
+ReactJs has number of libraries that makes the developer's job easy.
+Formik and Yup are two well known libraries to handle and validate forms in react. 
+
+What is Formik?
+Formik is the world's most popular open source form library for React. 
+It helps in getting values in and out of form state, provide initial values, 
+validate schema, form submission and many more.
+
+What is Yup?
+Yup is a JavaScript schema builder for value parsing and validation.
+It basically force to fill the required fields and apply conditions on them.
+collectively it builds a schema by applying conditions with the help of 
+its object method.
+
+Most of the time Formik and Yup are used together the schema build by Yup is used in 
+Formik in validationSchema property to validate the form fields.
+
+With the help of Formik and Yup libraries, I have developed a form in Reactjs using 
+bootstrap. I have upoaded this Application at my Github account you may visit it.
+
+https://github.com/NomanAijaz/React-registration-form-using-Formik-and-Yup-Library
+   
+  
+
+ 
+  
